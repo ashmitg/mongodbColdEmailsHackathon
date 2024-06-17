@@ -4,8 +4,6 @@
 
 This tool leverages Next.js for frontend development, MongoDB Atlas for vector search capabilities, and integrates GPT (Generative Pre-trained Transformer) for composing personalized cold emails. It includes features for scraping website information and utilizes a RAG (Retrieve, Analyze, Generate) pipeline.
 
-## Demo
-[![Google Slide Deck](https://docs.google.com/presentation/d/1eku19Ktid-y8YvABAvnZQdpmZO1gk2LfakjBpQzYARY/edit?usp=sharing)](https://docs.google.com/presentation/d/1eku19Ktid-y8YvABAvnZQdpmZO1gk2LfakjBpQzYARY/edit?usp=sharing)
 
 
 ## Features
